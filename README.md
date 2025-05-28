@@ -1,88 +1,41 @@
-<div align="center">
-  <img src="https://t3.ftcdn.net/jpg/05/17/37/98/360_F_517379890_HG2tp98OZHHpg3RV9tUoIKjtt7bUVvFp.jpg" alt="Aarav Kumar - IoT Engineer" width="300" style="border-radius: 10px; border: 2px solid #2D3748; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
-  
-  # Aarav Kumar
-  
-  ### IoT & Flutter Developer | Embedded Systems Specialist
-  
-  [![Email Badge](https://img.shields.io/badge/-aarav9136@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:aarav9136@gmail.com)
-  [![LinkedIn Badge](https://img.shields.io/badge/-Aarav_Kumar-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/aarav-kumar)
-  [![Twitter Badge](https://img.shields.io/badge/-@aarav784-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/aarav784)
-  [![HackerRank Badge](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/aarav9136)
-</div>
+<h1 align="center">Hi 👋, I'm Aarav Kumar</h1>
+<h3 align="center">A passionate IOT AND FLUTTER DEVELOPER from India</h3>
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aarav74&label=Profile%20views&color=0e75b6&style=flat" alt="aarav74" /> </p>
 
-## 🛠 Technical Expertise
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aarav74" alt="aarav74" /></a> </p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/NodeMCU-E7352C?style=for-the-badge&logo=nodemcu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</div>
+<p align="left"> <a href="https://twitter.com/aarav784" target="blank"><img src="https://img.shields.io/twitter/follow/aarav784?logo=twitter&style=for-the-badge" alt="aarav784" /></a> </p>
 
----
+- 🔭 I’m currently working on [FLASH AI](https://github.com/Aarav74/temp_flash_ai.git)
 
-## 📌 Current Focus
+- 🌱 I’m currently learning **Flutter, Gen AI, Dart, Embedding systems.**
 
-- 🔭 Developing **[FLASH AI](https://github.com/Aarav74/temp_flash_ai.git)** - Advanced chatbot powered by Google Gemini
-- 🌱 Mastering **Flutter, Generative AI, and Embedded Systems architectures**
-- 🤝 Open for collaboration on IoT and mobile development projects
+- 👯 I’m looking to collaborate on [kid_tracker_app](https://github.com/Aarav74/kid_tracker_app.git)
 
----
+- 🤝 I’m looking for help with [Expense tracker](https://github.com/Aarav74/expense_tracker.git)
 
-## 📈 GitHub Analytics
+- 💬 Ask me about **Flutter, Arduino IDE, Sensors, Microcontrollers, Embedded Systems**
 
-<div align="center">
-  <a href="https://github.com/aarav74">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aarav74&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarav74&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aarav74&theme=algolia" alt="aarav74" />
-</div>
+- 📫 How to reach me **aarav9136@gmail.com**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/aarav784" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aarav784" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aarav kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aarav kumar" height="30" width="40" /></a>
+<a href="https://instagram.com/_.aaravvv.3107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.aaravvv.3107" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/aarav9136" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aarav9136" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/aarav9136" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aarav9136" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/aarav784" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aarav784" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/aarav784" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aarav784" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/aarave065" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aarave065" height="30" width="40" /></a>
+</p>
 
-## 🏆 Professional Highlights
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 250px; margin: 10px;">
-    <h3>🏅 Awards</h3>
-    <ul>
-      <li>Winner - E-QUIZ, IOT Workshop (RKGIT)</li>
-      <li>2nd Runner-up - "Just a Minute" (KIET)</li>
-      <li>5-star Java - HackerRank</li>
-    </ul>
-  </div>
-  
-  <div style="flex: 1; min-width: 250px; margin: 10px;">
-    <h3>📜 Certifications</h3>
-    <ul>
-      <li>IoT Fundamentals - Simplilearn</li>
-      <li>Python Programming - Meta</li>
-      <li>Software Engineering - JP Morgan</li>
-      <li>AI for Beginners - HP LIFE</li>
-    </ul>
-  </div>
-  
-  <div style="flex: 1; min-width: 250px; margin: 10px;">
-    <h3>🔧 Core Skills</h3>
-    <ul>
-      <li>IoT System Design</li>
-      <li>Embedded Programming</li>
-      <li>Cross-platform App Development</li>
-      <li>Wireless Communication Protocols</li>
-    </ul>
-  </div>
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aarav74&show_icons=true&locale=en&layout=compact" alt="aarav74" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aarav74&show_icons=true&locale=en" alt="aarav74" /></p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aarav74&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/aarav74?tab=repositories"><img src="https://badges.pufler.dev/repos/aarav74" alt="Repositories"></a>
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aarav74&" alt="aarav74" /></p>
