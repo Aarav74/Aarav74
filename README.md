@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <img src=""C:\Users\aarav\Downloads\download.png"" alt="Aarav Kumar - IoT Engineer" width="300" style="border-radius: 10px; border: 2px solid #2D3748; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <img src="C:\Users\aarav\Downloads\download.png" alt="Aarav Kumar - IoT Engineer" width="300" style="border-radius: 10px; border: 2px solid #2D3748; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 </div>
 
 ---
