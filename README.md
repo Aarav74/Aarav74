@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aarav Kumar</h1>
-<h3 align="center">A Passionate IoT & Flutter Developer from India</h3>
+<h3 align="center">A Passionate IoT & Flutter Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aarav74&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 <div align="center">
   <img src="https://t3.ftcdn.net/jpg/05/17/37/98/360_F_517379890_HG2tp98OZHHpg3RV9tUoIKjtt7bUVvFp.jpg" alt="Aarav Kumar - IoT Engineer" width="300" style="border-radius: 10px; border: 2px solid #2D3748; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
@@ -91,6 +88,9 @@
 - 💸 [Expense Tracker](https://github.com/Aarav74/expense_tracker.git) – Personal finance manager
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aarav74&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
